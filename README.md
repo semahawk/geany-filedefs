@@ -1,13 +1,14 @@
 # My Geany filedefs
 
 ## Installation
-To install, just put the files into:
 
-+ Geany 0.16 and higher
+If You have Geany 0.16 or higher, just put the files there:
 	~/.config/geany/filedefs
-+ Geany 0.15 and lower
+
+If You have Geany 0.15 or lower, jusr put the files there:
 	~/.geany/filedefs
 
 And restart Geany. Here you are!
+
 ## License
-> Licensed under MIT (aka X11) license.
+Licensed under MIT (aka X11) license.
