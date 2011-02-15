@@ -5,7 +5,7 @@
 If You have Geany 0.16 or higher, just put the files there:
 	~/.config/geany/filedefs
 
-If You have Geany 0.15 or lower, jusr put the files there:
+If You have Geany 0.15 or lower, just put the files there:
 	~/.geany/filedefs
 
 And restart Geany. Here you are!
